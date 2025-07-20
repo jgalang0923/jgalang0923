@@ -44,7 +44,7 @@ I'm just an entire IT Department (maybe) who passionately loves administrating a
   <img src="https://img.icons8.com/color/48/tomcat.png" alt="Tomcat" width="48" height="48">
 </div>
 <br>
-<h2>🖥️ Web App Dev</h2>
+<h2>🕷️ Web App Dev</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="NextJS" width="48" height="48">
   <img src="https://img.icons8.com/officel/50/react.png" alt="React" width="48" height="48">
@@ -73,3 +73,9 @@ Maybe no projects yet? 🤔
 <img width="24" height="24" src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook-new"/> <a href="facebook.com/hachiko008"> Facebook <br>
 </div>
 <br>
+
+Motto:
+<i>"Cloud servers are actually someone else's computer 💅🏻✨"</i>
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/778406469278529751/4F6466C0020D515D58BE655C00C9132D03B5C37C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Animated Banner" width="100%">
+</p>
