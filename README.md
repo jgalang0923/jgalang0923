@@ -63,7 +63,7 @@ I'm a multi-hat-wearing tech nerd who builds in the cloud, administers servers, 
 
 ### ✨ Motto
 
-> "If it breaks, I probably touched it. If it works, I probably fixed it."
+> Cloud Servers are actually someone else's computer 🥴"
 
 ---
 
