@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm just an entire IT Department (maybe) who passionately loves administrating and programming. My stacks there are already presented (you can take a look at it 😉). Sometimes when I'm not doing an "IT stuff" I just live normally like everybody does 😅
+I'm just an entire IT Department (maybe) who passionately loves administrating and programming. My stacks there are already presented (you can take a look at it 😉). Sometimes when I'm not doing an "IT stuff", I live normally like everybody does 😅
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jgalang0923&label=Profile%20views&color=f03c18&style=flat" alt="Profile views" />
