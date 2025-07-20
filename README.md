@@ -13,22 +13,15 @@ I'm a multi-hat-wearing tech nerd who builds in the cloud, administers servers, 
 
 ---
 
-### 🧠 What I Do Best
-
-#### 🚀 Cloud Engineering
-- 🛰️ Google Cloud, Huawei Cloud, AWS, Azure, Globe Cloud
-- ⛅ Automating deployments like a boss
-
-#### 🧰 System Administration
-- 🐧 Ubuntu, CentOS
-- 🔥 Nginx, Apache, Tomcat, GlassFish
-
-#### 💻 Web Development
-- 💅 Frontend: Next.js, Tailwind CSS
-- 🧠 Backend: Java (Grails), PostgreSQL, MySQL
-
-#### 📊 BI Reports
-- 📈 Jaspersoft Studio & JasperServer magic
+🧠 What I Do Best
+🚀 Cloud Engineering
+<p align="left"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Huawei%20Cloud-C70039?logo=huawei&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Globe%20Cloud-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /> </p>
+🧰 System Administration
+<p align="left"> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/GlassFish-000000?style=for-the-badge&logo=java&logoColor=white" /> </p>
+💻 Web Development
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Grails-558539?logo=java&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> </p>
+📊 BI Reports
+<p align="left"> <img src="https://img.shields.io/badge/Jaspersoft-1B5E20?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/JasperServer-6A1B9A?style=for-the-badge&logo=apache&logoColor=white" /> </p>
 
 ---
 
