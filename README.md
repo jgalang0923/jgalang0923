@@ -50,13 +50,13 @@ I'm a multi-hat-wearing tech nerd who builds in the cloud, administers servers, 
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgalang008&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgalang0923&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jgalang008&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jgalang0923&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalang008&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalang0923&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 ---
