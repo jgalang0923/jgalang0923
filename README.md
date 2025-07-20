@@ -1,10 +1,8 @@
 # Hello there 👋 I'm Joshua Galang
 
-## About Me
+## About Me 🚀
 
-I'm a versatile tech enthusiast balancing the intricate world of **Cloud Engineering** with the solid foundations of **System Administration**, crafting engaging **Web Applications**, and extracting insights through **BI Reports**. My journey involves making sure servers play nice, code runs smooth, and data tells a compelling story. Think of me as your digital architect, network whisperer, and data storyteller all rolled into one — often fueled by coffee and the occasional gaming session.
-
-Just a human who speaks fluent code and occasionally battles virtual demons.
+I'm just an entire IT Department (maybe) who passionately loves administrating and programming. My stacks there are already presented (you can take a look at it 😉). Sometimes when I'm not doing an "IT stuff" I just live normally like everybody does 😅
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jgalang0923&label=Profile%20views&color=f03c18&style=flat" alt="Profile views" />
@@ -49,8 +47,9 @@ Just a human who speaks fluent code and occasionally battles virtual demons.
 <h2>🖥️ Web App Dev</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="NextJS" width="48" height="48">
-  <img src="https://img.icons8.com/dotty/80/react.png" alt="React" width="48" height="48">
+  <img src="https://img.icons8.com/officel/50/react.png" alt="React" width="48" height="48">
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind" width="48" height="48">
+  <img src="https://img.icons8.com/nolan/50/php--v2.png" alt="PHP" width="48" height="48">
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_36f1bae8310bb7a2f8417ff867932e4a/grails.png" alt="Grails" width="48" height="48">
   <img src="https://img.icons8.com/fluency/50/java-coffee-cup-logo.png" alt="Java" width="48" height="48">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL" width="48" height="48">
