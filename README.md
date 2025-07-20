@@ -7,7 +7,7 @@
 
 ---
 
-### ☁️ Cloud Whisperer By Day, DOTA Slayer By Night
+### ☁️ Tech-Nerd by day, Gamer at night (not usually)
 
 I'm an entire IT department (maybe) who administers in the Cloud, servers, builds web apps, and even crafts BI reports like a sorcerer with a mouse. I like long walks through terminal logs, and I once fixed a problem I just by looking at it funny (okay, that last part’s a lie — i dunno hehe).
 
