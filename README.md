@@ -1,16 +1,117 @@
-## Hi there 👋
+# Hey there! 👋 I'm Joshua Galang
 
-<!--
-**jgalang0923/jgalang0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Just a human who speaks fluent code and occasionally battles virtual demons.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galangjoshua&color=red" alt="Profile views" />
+</p>
+
+---
+
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 10px; border: 1px solid #333; margin-bottom: 30px;">
+  <h2 style="color: #e50000; margin-top: 0;">🚀 About Me</h2>
+  <p style="color: #ccc; line-height: 1.6;">
+    I'm a versatile tech enthusiast balancing the intricate world of <strong style="color: #e50000;">Cloud Engineering</strong> with the solid foundations of <strong style="color: #e50000;">System Administration</strong>, crafting engaging <strong style="color: #e50000;">Web Applications</strong>, and extracting insights through <strong style="color: #e50000;">BI Reports</strong>. My journey involves making sure servers play nice, code runs smooth, and data tells a compelling story. Think of me as your digital architect, network whisperer, and data storyteller all rolled into one – often fueled by coffee and the occasional gaming session.
+  </p>
+</div>
+
+---
+
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 10px; border: 1px solid #333; margin-bottom: 30px;">
+  <h2 style="color: #e50000; margin-top: 0;">🛠️ My Tech Arsenal</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+    
+    <div style="flex: 1; min-width: 280px; background-color: #282828; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+      <h3 style="color: #e50000; margin-top: 0;">☁️ Cloud Engineering</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="color: #ccc; margin-bottom: 8px;">• Google Cloud Platform (GCP)</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Huawei Cloud</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Amazon Web Services (AWS)</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Microsoft Azure</li>
+        <li style="color: #ccc;">• Globe Cloud</li>
+      </ul>
+    </div>
+
+    <div style="flex: 1; min-width: 280px; background-color: #282828; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+      <h3 style="color: #e50000; margin-top: 0;">🐧 System Administration</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="color: #ccc; margin-bottom: 8px;">• Ubuntu</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• CentOS</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Nginx</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Apache</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• GlassFish</li>
+        <li style="color: #ccc;">• Tomcat</li>
+      </ul>
+    </div>
+
+    <div style="flex: 1; min-width: 280px; background-color: #282828; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+      <h3 style="color: #e50000; margin-top: 0;">💻 Web App Development</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="color: #ccc; margin-bottom: 8px;">• Next.js</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Tailwind CSS</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Grails</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• Java</li>
+        <li style="color: #ccc; margin-bottom: 8px;">• PostgreSQL</li>
+        <li style="color: #ccc;">• MySQL</li>
+      </ul>
+    </div>
+
+    <div style="flex: 1; min-width: 280px; background-color: #282828; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+      <h3 style="color: #e50000; margin-top: 0;">📊 BI Reports</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="color: #ccc; margin-bottom: 8px;">• Jaspersoft Studio</li>
+        <li style="color: #ccc;">• JasperServer</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+---
+
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 10px; border: 1px solid #333; margin-bottom: 30px;">
+  <h2 style="color: #e50000; margin-top: 0;">🎮 Hobbies & Interests</h2>
+  <p style="color: #ccc; line-height: 1.6;">
+    When I'm not orchestrating cloud resources or wrangling code, you can find me:
+  </p>
+  <ul style="list-style-type: square; color: #ccc; padding-left: 20px;">
+    <li style="margin-bottom: 8px;">
+      <strong style="color: #e50000;">Gaming:</strong> Dominating lanes in <strong style="color: #e50000;">DOTA 2</strong>, clashing in <strong style="color: #e50000;">Honor of Kings</strong>, or exploring Teyvat in <strong style="color: #e50000;">Genshin Impact</strong>. (Warning: may occasionally confuse real-world problems with in-game quests).
+    </li>
+    <li>
+      <strong style="color: #e50000;">Anime:</strong> Binge-watching classics like <strong style="color: #e50000;">Saekano</strong>, getting lost in the bizarre world of <strong style="color: #e50000;">JoJo's Bizarre Adventure</strong>, or laughing till my sides hurt with <strong style="color: #e50000;">Gintama</strong>.
+    </li>
+  </ul>
+</div>
+
+---
+
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 10px; border: 1px solid #333; margin-bottom: 30px;">
+  <h2 style="color: #e50000; margin-top: 0;">📫 Let's Connect!</h2>
+  <p style="color: #ccc; line-height: 1.6;">
+    Got a cool project in mind, a tech riddle to solve, or just want to chat about the latest anime? Feel free to reach out!
+  </p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 10px;">
+      <a href="https://linkedin.com/in/galangjoshua" target="_blank" style="color: #e50000; text-decoration: none; font-weight: bold;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="vertical-align: middle; margin-right: 8px;"> galangjoshua</a>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <a href="https://jgalanng.com" target="_blank" style="color: #e50000; text-decoration: none; font-weight: bold;"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" style="vertical-align: middle; margin-right: 8px;"> jgalanng.com</a>
+    </li>
+    <li>
+      <a href="https://facebook.com/Hachiko008" target="_blank" style="color: #e50000; text-decoration: none; font-weight: bold;"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" style="vertical-align: middle; margin-right: 8px;"> Hachiko008</a>
+    </li>
+  </ul>
+</div>
+
+---
+
+<p align="center" style="color: #888; font-style: italic; margin-top: 40px;">
+  "Debugging is like being the detective in a crime movie where you are also the murderer."
+  <br>
+  <span style="color: #666;">— Unknown, probably me at 3 AM.</span>
+</p>
+
+---
