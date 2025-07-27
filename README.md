@@ -74,9 +74,12 @@ Maybe no projects yet? 🤔
 
 ## 🤝 Connect with me
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img width="24" height="24" src="https://img.icons8.com/3d-fluency/50/globe.png" alt="portfolio"/> <a href="jgalang.com"> Portfolio <br>
-<img width="24" height="24" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin"/> <a href="linked.com/in/galangjoshua"> LinkedIn <br>
-<img width="24" height="24" src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook-new"/> <a href="facebook.com/hachiko008"> Facebook <br>
+<img width="24" height="24" src="https://img.icons8.com/3d-fluency/50/globe.png" alt="portfolio"/>
+<a href="https://jgalang.com" target="_blank">Portfolio</a><br>
+<img width="24" height="24" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin"/>
+<a href="https://linkedin.com/in/galangjoshua" target="_blank">LinkedIn</a><br>
+<img width="24" height="24" src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook-new"/>
+<a href="https://facebook.com/hachiko008" target="_blank">Facebook</a><br>
 </div>
 <br>
 
