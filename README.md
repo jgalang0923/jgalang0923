@@ -57,6 +57,11 @@ I'm just an entire IT Department (maybe) who passionately loves administrating a
   <img src="  https://img.icons8.com/color/48/microsoft-sql-server.png" alt="MS SQL" width="48" height="48">
 </div>
 <br>
+<h2>📦 Containerization</h2>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://img.icons8.com/fluency/50/docker.png" alt="Docker" width="48" height="48">
+</div>
+<br>
 <h2>📜 BI Reports</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://cdn-1.webcatalog.io/catalog/jaspersoft/jaspersoft-icon-filled-256.png?v=1745891749842" alt="JasperServer" width="48" height="48">
