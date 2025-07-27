@@ -74,7 +74,7 @@ Maybe no projects yet? 🤔
 
 ## 🤝 Connect with me
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img width="24" height="24" src="https://img.icons8.com/3d-fluency/50/globe.png" alt="web"/> <a href="www.jgalang.com"> Portfolio <br>
+<img width="24" height="24" src="https://img.icons8.com/3d-fluency/50/globe.png" alt="portfolio"/> <a href="jgalang.com"> Portfolio <br>
 <img width="24" height="24" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin"/> <a href="linked.com/in/galangjoshua"> LinkedIn <br>
 <img width="24" height="24" src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook-new"/> <a href="facebook.com/hachiko008"> Facebook <br>
 </div>
@@ -83,5 +83,5 @@ Maybe no projects yet? 🤔
 Motto:
 <i>"Cloud servers are actually someone else's computer 💅🏻✨"</i>
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/778406469278529751/4F6466C0020D515D58BE655C00C9132D03B5C37C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Animated Banner" width="100%">
+  <img src="https://images.steamusercontent.com/ugc/778406469278529751/4F6466C0020D515D58BE655C00C9132D03B5C37C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Megumi Kato🧡" width="100%">
 </p>
