@@ -44,7 +44,7 @@ I'm just an entire IT Department (maybe) who passionately loves administrating a
   <img src="https://img.icons8.com/color/48/tomcat.png" alt="Tomcat" width="48" height="48">
 </div>
 <br>
-<h2>🕷️ Web App Dev</h2>
+<h2>🕸️ Web App Dev</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="NextJS" width="48" height="48">
   <img src="https://img.icons8.com/officel/50/react.png" alt="React" width="48" height="48">
@@ -54,7 +54,7 @@ I'm just an entire IT Department (maybe) who passionately loves administrating a
   <img src="https://img.icons8.com/fluency/50/java-coffee-cup-logo.png" alt="Java" width="48" height="48">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL" width="48" height="48">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="48" height="48">
-  <img src="  https://img.icons8.com/color/48/microsoft-sql-server.png" alt="MS SQL" width="48" height="48">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="MS SQL" width="48" height="48">
 </div>
 <br>
 <h2>📦 Containerization</h2>
