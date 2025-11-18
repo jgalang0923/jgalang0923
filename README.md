@@ -15,8 +15,8 @@ I'm just an entire IT Department (maybe) who passionately loves administrating a
   </div>
 
   <!-- Right Column: Streak and Top Languages Stacked -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgalang0923&theme=radical" alt="Your GitHub Streak" />
+  <div style="display: flex; flex-direction: column; gap: 20px;"> 
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgalang0923&theme=radical" alt="Your GitHub Streak" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalang0923&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </div>
